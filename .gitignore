@@ -1,0 +1,22 @@
+# Customer data, credentials, caches and local settings
+hotel.db
+hotel.db-*
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+backups/
+*.log
+.idea/
+.vscode/
