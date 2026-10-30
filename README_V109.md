@@ -1,2 +1,0 @@
-# v109 — Security login analytics
-Adds administrator-only login history analytics, 1/7/30/90-day filtering, optional exact username filtering, outcome counts and review candidates (5+ failed or locked events). Review signals do not establish that an attack occurred. Includes regression tests. The UI has not been manually tested on Windows. Back up hotel.db before upgrade. PDF reporting remains a future enhancement.
